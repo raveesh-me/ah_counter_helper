@@ -1,16 +1,17 @@
 # ah_counter_helper
+Ah Counter Helper for Toastmasters Meetings.
 
-Ah Counter Helper for Toastmasters Meetings
+At toastmasters people play different roles. One of those roles is of the Ah-Counter.
+An Ah-Counter is responsible for listening to a speaker while paying attention of the 
+"fillers", "repeats" and "crutch words" that the speaker uses during the speech.
 
-## Getting Started
+There is a counter for
+- and
+- umm
+- ah
+- repeats
+- other crutch words
 
-This project is a starting point for a Flutter application.
+The purpose of this application is to allow for an interface that allows the user to temporarily(for the scope of one session) record these for every speaker.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Spec: 
